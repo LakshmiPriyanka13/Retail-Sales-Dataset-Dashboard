@@ -45,7 +45,7 @@ A PowerPoint presentation titled “Retail Sales Dashboard Summary” is include
 - Visual Snapshots of the Dashboard
 
 ## Tools Used
-Power BI Desktop – for data modeling and visualization
-Excel (CSV) – as data source
-PowerPoint - for Summary Presentation
+Power BI Desktop – for data modeling and visualization               
+Excel (CSV) – as data source                  
+PowerPoint - for Summary Presentation               
 
