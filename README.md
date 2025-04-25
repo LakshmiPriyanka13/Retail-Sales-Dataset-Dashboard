@@ -3,7 +3,10 @@
 This project presents a dynamic Retail Sales Dashboard built in Power BI. It provides actionable insights into customer demographics, sales performance, and product category trends using visual analytics. A supporting PowerPoint presentation summarizes the objectives, dataset details, visuals, and business insights.
 
 ## Files used in this Repo
-
+<a href="https://github.com/LakshmiPriyanka13/Retail-Sales-Dataset-Dashboard/blob/main/retail_sales_dataset.csv">retail_sales_dataset.csv</a>- Dataset used for Datamodelling and Visualization in Power BI       
+<a href="https://github.com/LakshmiPriyanka13/Retail-Sales-Dataset-Dashboard/blob/main/Retail%20Sales%20Dashboard.pbix">Retail Sales Dashboard.pbix</a>- The Power BI file where the Visualisation, Charts and Dashboard is created           
+<a href="https://github.com/LakshmiPriyanka13/Retail-Sales-Dataset-Dashboard/blob/main/Retail%20sales%20Dashboard%20Snapshot.png">Retail sales Dashboard Snapshot.png</a>- Just a ScreenShot of the Dashboard for Immediate viewing purpose                
+<a href="https://github.com/LakshmiPriyanka13/Retail-Sales-Dataset-Dashboard/blob/main/Retail%20sales%20dashboard%20summary.pptx">Retail sales dashboard summary.pptx</a>- PowerPoint presentation summarizing the objectives, dataset details, visuals, and business insights     
 
 ## Dataset Information
 The dataset contains transactional data with key features such as product categories, customer demographics, and monetary values.
